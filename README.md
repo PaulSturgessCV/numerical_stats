@@ -1,3 +1,4 @@
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/paulsturgesscv/numerical_stats)
 Numerical Methods and Statistics
 ====
 
